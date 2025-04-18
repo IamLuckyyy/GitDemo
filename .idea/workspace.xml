@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2e156648-786b-4bd5-939f-e4593f8de6b4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attributes/user_defined_attributes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Attributes/user_defined_attributes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,18 +176,6 @@
       <recent name="G:\Python_in_PyCharm\Test\Opps" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Python.written">
     <configuration name="Matrix_Mul" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Test" />
@@ -303,11 +293,11 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.written" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.rotation_left_right" />
       <item itemvalue="Python.Matrix_Mul" />
       <item itemvalue="Python.Matrix_Transpose" />
-      <item itemvalue="Python.rotation_left_right" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.written" />
     </list>
     <recent_temporary>
       <list>
